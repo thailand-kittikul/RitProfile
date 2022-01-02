@@ -24,8 +24,10 @@ print(my.name)
 my.show_email()
 my.show_myart()
 my.show_hobby()
+my.show_cat()
 ```
 
 พัฒนาโดย: Super rit
 FB: https://www.facebook.com/UncleEngineer
+
 YouTube: https://www.youtube.com/UncleEngineer
